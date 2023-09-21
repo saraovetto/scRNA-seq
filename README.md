@@ -13,4 +13,4 @@ The data is a sample of mammalian tissue from the [Tabula Muris](https://tabula-
 Keep in mind that the term "marker gene" here is in general intended as “found over-expressed in clusters of that cell type". 
 
 ### Preview
-A preview of the markdown can be seen [here](https://htmlpreview.github.io/?https://github.com/saraovetto/scRNAseq/blob/main/scRNAseq.html)!
+A preview of the markdown can be seen [here](https://htmlpreview.github.io/?https://github.com/saraovetto/scRNA-seq/blob/main/scRNAseq.html)!
